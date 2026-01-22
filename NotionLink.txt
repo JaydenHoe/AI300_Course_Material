@@ -1,0 +1,19 @@
+List of Notion Link
+
+*Lesson Recording https://www.youtube.com/playlist?list=PLrDIB519o8XhhI_rFn5JrdzIjXofd0rBC
+
+1)AI300 Quick Reference Cheatsheet
+https://heicodersacademy.notion.site/AI300-Quick-Reference-Cheatsheet-12a3c59c03e280a2ac98fc5c0709d8e2?pvs=4
+
+2) Lesson 1 : https://heicodersacademy.notion.site/Lesson-1-Database-Management-fc96c0a0ec794c7aa794f95f209cd3c9
+
+3) Lesson 2 : https://heicodersacademy.notion.site/Lesson-2-Database-Management-II-bd9b15c17dc54d70b69331c20938c6fd
+
+	Youtube Playlist: Database Design https://www.youtube.com/playlist?list=PLrDIB519o8XiR6ZiyGCYgno68--NTl-Ps
+
+
+4) Lesson 3 : https://heicodersacademy.notion.site/Lesson-3-IDEs-Git-GitHub-18c39c3d0ac94b5b9a26df8c64677d48
+	Git for Ages 4 and Up (linux YouTube link) : https://www.youtube.com/watch?v=1ffBJ4sVUb4
+	Youtube Playlist: Surviving With Git : youtube.com/watch?v=sYiW5BwLBgg&list=PLyCj4RCToz5AKiAKycmAZcTZron_yANQT&index=1
+
+5) Lesson 4 : https://heicodersacademy.notion.site/Lesson-4-OOP-in-Data-Science-af2e93389e5e4825b4b224c61927fb13
